@@ -10,4 +10,4 @@ Face recognition with trained classifiers for detecting objects using OpenCV
  cap = cv2.VideoCapture(1)
  
 # For PC or Laptop webcam code :
-   cap = cv2.VideoCapture(1)
+   cap = cv2.VideoCapture(0)
