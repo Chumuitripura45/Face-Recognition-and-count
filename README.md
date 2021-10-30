@@ -3,8 +3,8 @@ Face recognition with trained classifiers for detecting objects using OpenCV
 
 # Libraries required to be installed using pip Command:
 1. cv2
-2. numpy as np
-3. dlib as d
+2. numpy
+3. dlib
 
 # Using webcam code:
  cap = cv2.VideoCapture(1)
